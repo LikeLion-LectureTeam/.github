@@ -30,7 +30,7 @@ We are a team of developers, designers, and innovators. Here’s a list of our m
 
 ## 📖 Get Started
 We welcome contributors! To get started:
-1. Clone this repository: `git clone https://github.com/LikeLion-ProjectTeam/repo-name.git`
+1. Clone this repository: `git clone https://github.com/LikeLion-LectureTeam/repo-name.git`
 2. Navigate into the directory: `cd repo-name`
 3. Install the required dependencies: `npm install` (for Node projects), `pip install -r requirements.txt` (for Python projects)
 4. Follow the project-specific instructions in each project's README for further setup.
